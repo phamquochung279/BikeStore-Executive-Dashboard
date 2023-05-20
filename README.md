@@ -43,7 +43,7 @@ BikeStore's stakeholders needed a relational sales database to efficiently store
 
 ## Deliverables
 - Excel Dashboard: see file Query Results & Excel Dashboard.xlsx
-- Tableau Dashboard: see ![BikeStore's Executive Dashboard on Tableau Public](https://public.tableau.com/app/profile/hung.pham279/viz/BikeStoresExecutiveDashboard_16846137509240/ExecutiveDashboard)
+- Tableau Dashboard: see [BikeStore's Executive Dashboard on Tableau Public](https://public.tableau.com/app/profile/hung.pham279/viz/BikeStoresExecutiveDashboard_16846137509240/ExecutiveDashboard)
 
 ## Contact
 
