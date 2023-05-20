@@ -12,7 +12,7 @@ BikeStore is a fictional established bicycle retailer in the US. The company off
 
 BikeStore's stakeholders needed a relational sales database to efficiently store and manage their data, and an executive dashboard tracking multiple sales performance KPIs. We are given access to the clients' sales data from 2016 to 2018 in preparation for our database and dashboard development. <br />
 
-Disclaimer: The above-described scenario and its related dataset are both fictional. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental. <br />
+***Disclaimer: The above-described scenario and its related dataset are both fictional. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.*** <br />
 
 ## Tools Used
 
