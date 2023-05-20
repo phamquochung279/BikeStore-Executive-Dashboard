@@ -42,7 +42,7 @@ BikeStore's stakeholders needed a relational sales database to efficiently store
 - Query results will be shown in *Query1* tab, which can then be used to create PivotTables and, later on, executive dashboards <br />
 
 ## Deliverables
-- Excel Dashboard: see file Query Results & Excel Dashboard.xlsx
+- Excel Dashboard: see file **Query Results & Excel Dashboard.xlsx**
 - Tableau Dashboard: see [BikeStore's Executive Dashboard on Tableau Public](https://public.tableau.com/app/profile/hung.pham279/viz/BikeStoresExecutiveDashboard_16846137509240/ExecutiveDashboard)
 
 ## Contact
