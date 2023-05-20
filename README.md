@@ -37,9 +37,9 @@ Disclaimer: The above-described scenario and its related dataset are both fictio
 - Run the *Load Data* script to insert sample data into *BikeStores* database <br />
 *Note:* If you named your database something different from *BikeStores*, make sure to change the database name in line 1 of the script: <br />
 ```use BikeStores;```  <br />
-- Run the *SQL queries* script to make sure the queries get all the data you needed on your dashboard <br />
+- Run the *SQL Queries* script to make sure the queries get all the data you needed on your dashboard <br />
 - Connect the SQL dataset to an Excel Workbook (Open Excel -> Data tab -> Get Data -> From Database -> From SQL Server Database -> choose Server, enter Database name, copy the queries in *SQL queries* script and paste them in SQL statement field -> OK -> Load) <br />
-- Query results should be shown in *Query1* tab, which will then be used to create PivotTables and, later on, the executive dashboard <br />
+- Query results will be shown in *Query1* tab, which can then be used to create PivotTables and, later on, the executive dashboard <br />
 
 ## Contact
 
