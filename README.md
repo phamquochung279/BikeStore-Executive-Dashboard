@@ -1,7 +1,7 @@
 # BikeStore Executive Dashboard
 
 <p align="center">
-  <img src="https://mleuoy8pazri.i.optimole.com/w:1024/h:768/q:mauto/f:avif/https://bikeshopla.com/wp-content/uploads/2021/01/bikesinstoregeotag5.jpg = 500x500" alt="BikeStore">
+  <img src="https://mleuoy8pazri.i.optimole.com/w:1024/h:768/q:mauto/f:avif/https://bikeshopla.com/wp-content/uploads/2021/01/bikesinstoregeotag5.jpg =500x500" alt="BikeStore">
 </p>
 
 ## Introduction
