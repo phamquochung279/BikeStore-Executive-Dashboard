@@ -1,12 +1,12 @@
 # BikeStore Executive Dashboard
 
 <p align="center">
-  <img src="https://lemonbin.com/wp-content/uploads/2020/06/modern-bicycles-shop-june172020-min.jpg" alt="BikeStore">
+  <img src="https://mleuoy8pazri.i.optimole.com/w:1024/h:768/q:mauto/f:avif/https://bikeshopla.com/wp-content/uploads/2021/01/bikesinstoregeotag5.jpg" alt="BikeStore">
 </p>
 
 ## Introduction
 
-BikeStore is a fictional, established bicycle retailer in the US. The company offers a variety of high-end bikes, e.g. mountain bikes, road bikes, cyclo-cross bikes, etc. via their 3 stores in California, Texas, and New York. <br />
+BikeStore is a fictional established bicycle retailer in the US. The company offers a variety of high-end bikes, e.g. mountain bikes, road bikes, cyclo-cross bikes, etc. via their 3 stores in California, Texas, and New York. <br />
 
 ## Problem Statement
 
