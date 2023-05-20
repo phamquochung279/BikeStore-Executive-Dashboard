@@ -41,6 +41,9 @@ BikeStore's stakeholders needed a relational sales database to efficiently store
 - Connect the SQL dataset to an Excel Workbook (Open Excel -> Data tab -> Get Data -> From Database -> From SQL Server Database -> choose Server, enter Database name, copy the queries in *SQL queries* script and paste them in SQL statement field -> OK -> Load) <br />
 - Query results will be shown in *Query1* tab, which can then be used to create PivotTables and, later on, the executive dashboard <br />
 
+## Deliverables
+- 
+
 ## Contact
 
 Author: Pham Quoc Hung <br />
