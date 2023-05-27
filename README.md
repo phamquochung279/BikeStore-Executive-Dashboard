@@ -49,7 +49,7 @@ BikeStore's stakeholders needed a relational sales database to efficiently store
 
 Author: Pham Quoc Hung <br />
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) [@hung.pham5813](https://public.tableau.com/app/profile/hung.pham5813) <br />
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) [@hung.pham279](https://public.tableau.com/app/profile/hung.pham279) <br />
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [@phamquochung279](https://github.com/phamquochung279) <br />
 
