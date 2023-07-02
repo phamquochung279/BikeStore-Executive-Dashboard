@@ -10,7 +10,7 @@ BikeStore is a fictional established bicycle retailer in the US. The company off
 
 ## Problem Statement
 
-BikeStore's stakeholders needed a relational sales database to efficiently store and manage their data, and an executive dashboard tracking multiple sales performance KPIs. We are given access to the clients' sales data from 2016 to 2018 in preparation for our database and dashboard development. <br />
+BikeStore's stakeholders need a relational sales database to efficiently store and manage their data, and an executive dashboard tracking multiple sales performance KPIs. We are given access to the clients' sales data from 2016 to 2018 in preparation for our database and dashboard development. <br />
 
 ***Disclaimer: The above-described scenario and its related dataset are both fictional. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.*** <br />
 
@@ -37,7 +37,7 @@ BikeStore's stakeholders needed a relational sales database to efficiently store
 - Run the *Load Data* script to insert sample data into *BikeStores* database <br />
 *Note:* If you named your database something different from *BikeStores*, make sure to change the database name in line 1 of the script: <br />
 ```use BikeStores;```  <br />
-- Run the *SQL Queries* script to make sure the queries get all the data you needed on your dashboard <br />
+- Run the *SQL Queries* script and check if the queries get all the data you needed on your dashboard <br />
 - Connect the SQL dataset to an Excel Workbook (Open Excel -> Data tab -> Get Data -> From Database -> From SQL Server Database -> choose Server, enter Database name, copy the queries in *SQL queries* script and paste them in SQL statement field -> OK -> Load) <br />
 - Query results will be shown in *Query1* tab, which can then be used to create PivotTables and, later on, executive dashboards <br />
 
